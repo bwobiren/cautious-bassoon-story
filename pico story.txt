@@ -1,0 +1,29 @@
+[33mcommit 0da42b73de9c46876394f0d7ffb1d8a45df1c4c1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Fangying Zhan <fangying@royal-20.cs.wisc.edu>
+Date:   Thu Oct 3 18:43:13 2019 -0500
+
+    Fangying addition
+
+[33mcommit 19805a4611bcde1520e669cea57beb3e655b94bb[m
+Author: Alberto Rodriguez Toro <alberto@royal-17.cs.wisc.edu>
+Date:   Thu Oct 3 18:25:35 2019 -0500
+
+    Alberto A. Rodriguez Toro addition
+
+[33mcommit 841f356fcbde694cc9f316a6509908c83a0e204a[m
+Author: Maxwell Schmidt <mschmidt@snares-10.cs.wisc.edu>
+Date:   Thu Oct 3 18:15:59 2019 -0500
+
+    Max Schmidt addition
+
+[33mcommit 379cb2f09916ff001426622ab49597a6257e2509[m
+Author: Samuel Peaslee <peaslee@royal-26.cs.wisc.edu>
+Date:   Thu Oct 3 18:03:05 2019 -0500
+
+    Sam Peaslee's addition
+
+[33mcommit b5a9e5e3c95094f4cb98314bed8b1c64cb328999[m
+Author: Brendan Obrien <obrien@emperor-05.cs.wisc.edu>
+Date:   Thu Oct 3 17:50:30 2019 -0500
+
+    first paragraph
